@@ -1,0 +1,13 @@
+# Packages #
+.zip
+
+# Logs #
+.log
+
+# OS Files #
+.DS_Store
+.DS_Store
+
+# Dirs #
+public/*
+node_modules/*
